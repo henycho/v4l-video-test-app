@@ -23,7 +23,7 @@ Recommended : gcc-arm-10.3-2021.07-x86_64-aarch64-none-linux-gnu.tar.xz
 #### 2.1.2. Install the latest CMake for compilation of project.
 
 ```bash
-sudo apt-get -y install cmake
+sudo apt-get -y install cmake libdrm-dev
 ```
 
 #### 2.1.3. Follow the below commands to setup your compiler
